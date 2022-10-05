@@ -1,6 +1,7 @@
 trigger:
   - main
   - develop
+  - bolinha
 
 variables:
   - group: SONAR
